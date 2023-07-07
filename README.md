@@ -1,1 +1,1 @@
-# Estudos do projeto da QA.Coders - T10
+# Estudos do curso QA.Coders - T10
