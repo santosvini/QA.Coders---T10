@@ -121,7 +121,7 @@ Envolve esforço colaborativo de uma equipe para chegar ao resultado desejado.
 
 Dessa forma o **PO**, é um membro de um time que utiliza **Scrum**, o profissional tem como objetivo agregar valor para o negócio, junto ao público.
 
-O PO atua cmo um representante do cliente, responsável pela gestão de produtos em qualquer área de uma empresa, como no desenvolvmento de software, e-commerce, treinamento digital e muitos outros campos.
+O PO atua como um representante do cliente, responsável pela gestão de produtos em qualquer área de uma empresa, como no desenvolvmento de software, e-commerce, treinamento digital e muitos outros campos.
 
 ## Quais as diferenças entre um Product Owner e um Product Manager ?
 
